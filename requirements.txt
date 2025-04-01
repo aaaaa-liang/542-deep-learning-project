@@ -2,5 +2,5 @@ pandas
 ast
 scikit-learn
 torch
-matplotlip
+matplotlib
 seaborn
