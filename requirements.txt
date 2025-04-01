@@ -2,3 +2,5 @@ pandas
 ast
 scikit-learn
 torch
+matplotlip
+seaborn
