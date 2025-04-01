@@ -1,5 +1,4 @@
 pandas
-ast
 scikit-learn
 torch
 matplotlib
