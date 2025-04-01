@@ -4,3 +4,4 @@ This folder contains notebooks used for comprehensive data analysis. Below is a 
 #### Descriptions 
 - **data-cleaning.ipynb**: Contains the steps to process and prepare raw dataset for further analysis, including exploratory data analysis and artist names embedding.
 - **cleaned-data-with-artist-embedding.ipynb**: Embedded artist names using Label Encoding and PyTorch for machine learning.
+- **initial_EDA.ipynb**: This notebook focuses on exploring the cleaned Spotify dataset for intial data anaylsis. 
