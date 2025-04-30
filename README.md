@@ -1,4 +1,6 @@
 # Deep Learning Approach on Music Recommendation System
+Please refer to the new GitHub repo: https://github.com/christinesangphet/deep-learning-project for the most updated project progress. 
+
 ## Overview
 This project aims to develop a personalized recommendation system for Spotify tracks by leveraging artist and audio feature data. Using the Spotify Tracks (1921–2020) dataset (https://www.kaggle.com/datasets/ektanegi/spotifydata-19212020), the goal is to analyze user preferences and suggest relevant songs through machine learning techniques. The initial phase focuses on data exploration and preprocessing, preparing the dataset for a neural network model that will learn patterns between artists and user interactions. Later stages will incorporate deep learning to generate high-quality recommendations using both collaborative and content-based filtering approaches.
 ## Features
